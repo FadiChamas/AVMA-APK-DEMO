@@ -6,3 +6,6 @@ Install the apk on your Android device by selecting the APK (requires 7.0 or abo
 
 # Copyright Information
 The APK's remains the intellectual property of Ontario Tech University.
+
+# Feedback
+![Feedback](feedback.png)
